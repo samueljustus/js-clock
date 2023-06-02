@@ -19,13 +19,3 @@ function setDate() {
 
 
 setInterval(setDate, 1000);
-
-
-
-// function setMinute() {
-//    const date = new Date()
-//    const minute = date.getMinutes();
-
-// }
-
-// setInterval(setMinute, 6000);
